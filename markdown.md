@@ -22,49 +22,48 @@ April 2025
   </tr>
   <tr>
     <td align="center">1:00pm</td>
-    <td align="center">What is OpenStreetMap?</td>
+    <td align="left">What is OpenStreetMap?</td>
   </tr>
   <tr>
     <td align="center">1:15pm</td>
-    <td align="center">OSM communities and groups</td>
+    <td align="left">OSM communities and groups</td>
   </tr>
   <tr>
     <td align="center">1:25pm</td>
-    <td align="center">How to contribute?</td>
+    <td align="left">How to contribute?</td>
   </tr>
   <tr>
     <td align="center">1:35pm</td>
-    <td align="center">Adding elements to the map</td>
+    <td align="left">Adding elements to the map</td>
   </tr>
   <tr>
     <td align="center">1:45pm</td>
-    <td align="center">Editing tags to add details</td>
+    <td align="left">Editing tags to add details</td>
   </tr>
   <tr>
     <td align="center">2:00pm</td>
-    <td align="center">Break</td>
+    <td align="left">Break</td>
   </tr>
   <tr>
     <td align="center">2:10pm</td>
-    <td align="center">Open mapping time</td>
+    <td align="left">Open mapping time</td>
   </tr>
   <tr>
     <td align="center">2:30pm</td>
-    <td align="center">Questions & Answers</td>
+    <td align="left">Questions & Answers</td>
   </tr>
   <tr>
     <td align="center">2:50pm</td>
-    <td align="center">Wrapping up</td>
+    <td align="left">Wrap up</td>
   </tr>
 </table>
 </div>
 
 
 
-## External 2
-
-Content 2.1
-<!-- .slide: data-background="#000000" -->
+## What is OpenStreetMap?
+<img width="200" alt="OSM logo" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Openstreetmap_logo.svg">
+<!-- .slide: data-background="./img/img1.png" data-background-size="100%" data-background-opacity="0.3"-->
 
 
 ## External 3.1
